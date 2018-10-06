@@ -1,5 +1,3 @@
-# a710160064.github.io
-
 <html>
 
 <head>
@@ -7,7 +5,7 @@
 
 <body>
  <center>
- <font size="25px">
+ <font size="20px">
  BIODATAKU
  </font>
  </center>
